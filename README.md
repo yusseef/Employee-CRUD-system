@@ -13,6 +13,7 @@ Employee CRUD System with:
 
 that will activate the venv for you.
 then type:
+
 `python manage.py makemigrations`
 
 `python manage.py migrate`
