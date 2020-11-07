@@ -11,5 +11,13 @@ Employee CRUD System with:
 
 `source venv/bin/activate` for linux.
 
+that will activate the venv for you.
+then type:
+`python manage.py makemigrations`
+
+`python manage.py migrate`
+
+`python manage.py runserver`
+
 
 
